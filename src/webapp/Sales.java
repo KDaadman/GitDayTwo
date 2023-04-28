@@ -7,4 +7,6 @@ public class Sales {
 
     // ...
 
+    // more sale items on discount
+
 }
